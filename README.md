@@ -1,0 +1,2 @@
+# Efficiency-Enhancement-of-Photovoltaic-Module-Using-PCM-Based-Finned-Heat-Sink-
+This study explores the use of phase change materials (PCMs) in combination with fin electronics for thermal management and performance improvement in photovoltaic modules. The research demonstrates the ability of PCM-based electronic generators to reduce module temperature, increase power conversion, and extend device life.
